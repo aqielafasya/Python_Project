@@ -20,7 +20,7 @@ Project ini merupakan project kelompok dari mata kuliah Analisis Big Data. Proje
 2. Sentiment Analysis [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j2nRwV5IgdY2NkiyJLdQpDAUzSMxyWVG?usp=sharing)
 
 ## Hasil
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/aqielafasya/Python_Project/blob/master/Flip-Sentimen-Analysis/5.%20Sentiment%20Analysis%20of%20Flip%20App.pdf)
 ![image](https://github.com/user-attachments/assets/83269e43-ec96-482e-aa77-d737886135a6)
 
 
