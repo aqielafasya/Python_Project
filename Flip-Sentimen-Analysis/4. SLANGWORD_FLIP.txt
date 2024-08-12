@@ -1,0 +1,28 @@
+{"mau":"ingin","aja":"saja","cuma":"hanya","stuck":"macet","terbaikk":"terbaik","jd":"jadi","lbh":"lebih","perhantak":"pertahankan","simple":"mudah","goodjob":"kerja bagus",
+"klik":"tekan","semakin":"makin","ntepz":"mantap","tranfer":"transfer","apk":"aplikasi","gara gara":"karena","tlg":"tolong","klw":"kalau","bermanafaat":"bermanfaat","n":"dan",
+"ajah":"saja","hang":"macet","bangettt":"sekali","pake":"pakai","klu":"kalau","ba'da":"menjelang","dlm":"dalam","pas":"ketika","ttp":"tetap","utk":"untuk","gabisa":"tidak bisa",
+"aja":"saja","ga":"tidak","bonos":"bonus","min":"admin","jt":"juta","klo":"kalau","tf":"transfer","trus":"terus","pake":"pakai","sy":"saya","ngak":"tidak","bgt":"sekali",
+"abis":"setelah","ga":"tidak","buat":"untuk","tlg":"tolong","good":"baik","dlu":"dulu","yaa":"ya","utk":"untuk","makasih":"terima kasih","gak":"tidak","bernah":"pernah",
+"lemot":"lama","diupdate":"diperbarui","lemot":"lama","chat":"pesan","cs":"customer","Tf":"transfer","aj":"saja","adm":"admin","trnsfer":"transfer","meringkan":"meringankan",
+"diupdate":"diperbarui","lemot":"lambat","ngehang":"macet","nyesel":"menyesal","Hadeuh":"Aduh","good":"baik","update":"perbarui","forma nya":"performanya","makin":"semakin",
+"duit":"uang","gw":"saya","apk":"aplikasi","gak":"tidak","ilang":"hilang","Tf":"transfer","p*s":"pos","apk":"aplikasi","klik":"tekan","pake":"pakai","krna":"karena",
+"trf":"transfer","tp":"tapi","adm":"admin","jos":"mantap","sm":"sama","udah":"sudah","rekomendasiin":"rekomendasikan","k":"ke","tmn":"teman","ga":"tidak","bs":"bisa",
+"krn":"karena","tp":"tapi","kn":"kan","udah":"sudah","hrusnya":"harusnya","yg":"yang","bner":"benar","jd":"jadi","ngasi":"memberi","jgn":"jangan","mstinya":"mestinya",
+"sesuaikn":"sesuaikan","no":"nomor","n":"dan","tgl":"tanggal","ato":"atau","jm":"jam","dbkin":"dibuat","aja":"saja","rugiin":"merugikan","org":"orang","good":"bagus",
+"LG":"lagi","byk":"banyak","tf":"transfer","VA":"virtual account","ga":"tidak","tak":"tidak","mbayar":"bayar","payah":"jelek","disuruh":"disuruh","mintai":"minta",
+"di tindak lanjutin":"ditindaklanjuti","updte":"perbarui","ko":"kok","loding":"loading","jd":"jadi","hrus":"harus","sm":"sama","canche":"cache","login":"masuk","mhon":"mohon",
+"diperbaikin":"diperbaiki","apk":"aplikasi","aja":"saja","Ntah":"tidak","klu":"kalau","apk":"aplikasi","ngelag":"macet","aja":"saja","msih":"masih","bnyak":"banyak","acc":"terima",
+"pake":"pakai","gak":"tidak","plip":"flip","lola":"lama","udh":"sudah","update":"perbarui","sprti":"seperti","sprti":"seperti", "mantabbb":"mantap", "diconnect":"terputus",
+"banget":"sangat", "gak":"tidak", "klo":"kalo","mnt":"menit","ni":"ini","semakin":"makin", "trouble":"masalah","seneng":"senang", "semakin":"makin", "tiap":"setiap",
+"mnt":"menit","munggu":"nunggu","ampek":"sampai","merepet":"marah","gak":"tidak","iklas":"ikhlas", "u/":"untuk","n":"dan","tdk":"tidak","smp":"sampai", "memudahkn":"memudahkan",
+"kalo":"kalau", "stlh":"setelah","sy":"saya","marah2":"marah","tf":"transfer","abis":"habis","unistall":"uninstall","ga":"tidak","sktr":"sekitar", "banget":"sangat", "aja":"saja",
+"didownload":"diunduh","yg":"yang","plus":"apalagi", "expired":"kedaluwarsa", "ngga":"tidak", "udah":"sudah", "pending":"ditunda", "cs":"pelayanan pelanggan", "uninstal":"uninstall", 
+"ngasih":"memberi", "abis":"habis", "kelar":"selesai", "goodjob":"kerja bagus", "jgn":"jangan", "org":"orang", "apk":"aplikasi", "makasih":"terima kasih",
+"terimakasih":"terima kasih", "mks":"terima kasih", "ntapz":"mantap", "dilogo":"di logo", "pas":"ketika", "di gunakan":"digunakan", "masukin":"memasukkan",
+"banget":"sekali", "tis":"gratis", "cuman":"hanya", "virtualtapi":"virtual tapi", "buru":"cepat", "sii":"sih", "di update":"diperbarui", "hadeuh":"aduh",
+"proses nya":"prosesnya", "depan nya":"depannya", "lg":"lagi", "ewallet":"e wallet", "ntah":"tidak", "aplikasi nya":"aplikasinya", "di terima":"diterima", "saldo nya":"saldonya",
+"mantabbb":"mantap", "berulang-ulang":"berulang", "u/":"untuk", "di batesin":"dibatasi", "antarbank":"antar bank", "install":"pasang", "uninstall":"hapus", "luarbiasa":"luar biasa", "lho":"loh",
+"gara gara":"karena", "hrs":"harus", " nya":"nya"}
+																			
+
+																																																																	
