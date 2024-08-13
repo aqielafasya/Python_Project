@@ -10,6 +10,8 @@ Project ini merupakan project kelompok dari mata kuliah Analisis Big Data. Proje
 1. **Data Scraping** : mengumpulkan ulasan aplikasi flip dari google play store.
 2. **Preprocessing Data**
      - Tokenization : proses pemecahan teks ulasan menjadi unit-unit terkecil, proses cleansing (menghapus angka, tanda baca, karakter yang tidak diperlukan), normalization (mengoreksi ejaan), case folding (merubah huruf kapital menjadi huruf kecil).
+     - Stemming : mengubah kata berimbuhan menjadi kata dasar.
+     - Stopword Removal : menghapus kata-kata yang tidak memiliki arti atau informasi, seperti 'dan', 'di', 'ke', dan 'atau'.
 3. **Ekstraksi Fitur** : Term Frequency-Inverse Document Frequency (TF-IDF) untuk mengubah teks menjadi numerik.
 4. **Pelatihan Model** : membagi data menjadi train dan test yang kemudian dilatih dengan SVM.
 5. **Evaluasi Model** : mengukur performa model dengan menggunakan akurasi.
